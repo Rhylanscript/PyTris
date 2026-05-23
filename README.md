@@ -35,6 +35,7 @@ python __main__.py
 ```
 
 Building into an exe:
+- Move a copy of PyInstaller.exe into the root dir
 - Run `build.bat` and executable will be generated in dist/PyTris.exe
 
 ## Controls
